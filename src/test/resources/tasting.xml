@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test Suite">
+    <test name="Test Suite">
+        <classes>
+            <class name="kachorovskaTest">
+                <methods>
+                    <include name="registerTest" priority="1" />
+                    <include name="loginTest" priority="2" />
+                    <include name="fillInform" priority="3" />
+                    <include name="addressFillForm" priority="4" />
+                    <include name="changePass" priority="5" />
+                    <include name="addItemInBasket" priority="6" />
+                    <include name="socialMediaTest" priority="7" />
+                    <include name="filtersTest" priority="8" />
+                    <include name="searchTest" priority="9" />
+                    <include name="callback" priority="10" />
+                    <include name="BuyAnyItem" priority="11" />
+                    <include name="informAboutUs" priority="12" />
+                    <include name="news" priority="13" />
+                    <include name="vacation" priority="14" />
+                    <include name="addToFavoriteTest" priority="15" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,1 @@
+{"uuid":"96cd89d4-3d92-46f9-801e-7f6404784206","name":"Test Suite","children":["bf2807c1-259c-4149-a9db-d4732b342f48"],"befores":[{"name":"loginPage","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1692706561645,"stop":1692706564215}],"afters":[],"links":[],"start":1692706561628,"stop":1692706656449}
